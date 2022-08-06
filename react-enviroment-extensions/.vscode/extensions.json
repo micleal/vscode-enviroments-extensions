@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "esbenp.prettier-vscode",
+        "davidanson.vscode-markdownlint",
+        "ms-vscode.vscode-github-issue-notebooks"
+    ]
+}
