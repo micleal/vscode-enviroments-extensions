@@ -4,7 +4,12 @@
       "path": ""
     }
   ],
-  "settings": {},
+  "settings": {
+    "editor.fontWeight": 450,
+    "editor.fontFamily": "'Fira Code', 'JetBrains Mono', Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 16
+  },
   "extensions": {
     "recommendations": [
       "mikestead.dotenv",
