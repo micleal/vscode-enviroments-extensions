@@ -1,1 +1,1 @@
-# vscode-enviroments-extensions
+# vscode-environments-extensions

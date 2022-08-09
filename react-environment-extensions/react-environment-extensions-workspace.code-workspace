@@ -28,7 +28,8 @@
       "msjsdiag.vscode-react-native",
       "joshbolduc.story-explorer",
       "rangav.vscode-thunder-client",
-      "styled-components.vscode-styled-components"
+      "styled-components.vscode-styled-components",
+      "arcanis.vscode-zipfs"
     ]
   }
 }
