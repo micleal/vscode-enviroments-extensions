@@ -1,6 +1,22 @@
 {
-    "recommendations": [
-        "davidanson.vscode-markdownlint",
-        "ms-vscode.vscode-github-issue-notebooks"
-    ]
+  "recommendations": [
+    "mikestead.dotenv",
+    "esbenp.prettier-vscode",
+    "davidanson.vscode-markdownlint",
+    "ms-vscode.vscode-github-issue-notebooks",
+    "dsznajder.es7-react-js-snippets",
+    "dbaeumer.vscode-eslint",
+    "github.vscode-pull-request-github",
+    "codezombiech.gitignore",
+    "graphql.vscode-graphql",
+    "graphql.vscode-graphql-syntax",
+    "ms-vscode.vscode-typescript-next",
+    "silvenon.mdx",
+    "christian-kohler.npm-intellisense",
+    "msjsdiag.vscode-react-native",
+    "joshbolduc.story-explorer",
+    "rangav.vscode-thunder-client",
+    "styled-components.vscode-styled-components",
+    "arcanis.vscode-zipfs"
+  ]
 }
